@@ -1,5 +1,5 @@
 # health-professional
-Demo of Spotgini chat window embedded in Healthcare professional website
+Demo of chat window embedded in Healthcare professional website
 
 Demo website for chat window Go to https://amitshob.github.io/health-professional/ Click in the chat window at the bottom right. This is an example of conversation you can create with spotgini.
 
